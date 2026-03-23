@@ -14,4 +14,4 @@ A simple weather application that shows weather details using an API.
 - Weather API
 
 ## 🔗 Live Demo
-https://akhilar97-raw.github.io/Web-Devlopment-Projectes/weather-app/
+https://akhilar97-raw.github.io/Web-Development-Projects/weather-app/

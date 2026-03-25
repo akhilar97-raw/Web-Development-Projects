@@ -8,9 +8,9 @@ A collection of my practice projects.
 
 | Project | Tech | Live | Preview |
 |--------|------|------|---------|
-| Calculator | HTML, CSS, JS | [Demo](https://akhilar97-raw.github.io/calculator-app) | <img src="screenshots/calculator.png" width="120"/> |
-| To-Do List | HTML, CSS, JS | [Demo](https://akhilar97-raw.github.io/todo-app) | <img src="screenshots/todo.png" width="120"/> |
-| Weather App | HTML, CSS, JS, API | [Demo](https://akhilar97-raw.github.io/weather-app) | <img src="screenshots/weather1.png" width="120"/> |
+| Calculator | HTML, CSS, JS | [Demo](https://akhilar97-raw.github.io/Web-Development-Projects//calculator-app) | <img src="screenshots/calculator.png" width="120"/> |
+| To-Do List | HTML, CSS, JS | [Demo](https://akhilar97-raw.github.io/Web-Development-Projects//todo-app) | <img src="screenshots/todo.png" width="120"/> |
+| Weather App | HTML, CSS, JS, API | [Demo](https://akhilar97-raw.github.io/Web-Developmet-Projects//weather-app) | <img src="screenshots/weather1.png" width="120"/> |
 
 ---
 

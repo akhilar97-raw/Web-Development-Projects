@@ -1,6 +1,6 @@
 # 💻 Web Development Projects
 
-A collection of my very basic projects that are built for hands-on experience of my beginner stage.
+A collection of my projects that are built for hands-on experience of my beginner stage.
 
 ---
 
@@ -14,18 +14,5 @@ A collection of my very basic projects that are built for hands-on experience of
 
 ---
 
-## 🌤 Weather App (More Screenshots)
-
-<p align="center">
-  <img src="images/weather1.png" width="45%"/>
-  <img src="images/weather2.png" width="45%"/>
-</p>
-
----
-
 ## 🛠 Skills
 HTML • CSS • JavaScript • Git
-
----
-
-📌 More projects coming soon...

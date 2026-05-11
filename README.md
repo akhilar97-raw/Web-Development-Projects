@@ -17,4 +17,4 @@ A collection of my projects that are built for hands-on experience of my beginne
 
 ## 🛠 Skills
 HTML • CSS • JavaScript • Git
->>>>>>> 84a94084064c27d3adceabceccb5c32444425514
+

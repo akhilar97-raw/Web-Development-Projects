@@ -37,14 +37,9 @@ GitHubProfileFinder/
 3. Enter a GitHub username.
 4. Explore the profile and repositories.
 
-## Future Improvements
+## 📸 Preview
 
-- Dark/Light Mode
-- Contribution Heatmap
-- Language Badges
-- Copy Profile Link
-- Share Profile Feature
-- Improved UI/UX
+![GitHub Profile Finder](assets/screenshot.png)
 
 
 GitHub: https://github.com/akhilar97-raw

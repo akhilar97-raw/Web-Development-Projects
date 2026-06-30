@@ -37,9 +37,6 @@ GitHubProfileFinder/
 3. Enter a GitHub username.
 4. Explore the profile and repositories.
 
-## 📸 Preview
-
-![GitHub Profile Finder](assets/screenshot.png)
 
 
 GitHub: https://github.com/akhilar97-raw
